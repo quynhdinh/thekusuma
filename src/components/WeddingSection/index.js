@@ -10,11 +10,11 @@ function WeddingSection({ isInvitation }) {
     return (
       <Fragment>
         <div className="col-md-8 col-md-offset-4">
-          <WeddingInfoBox title="LỄ NẠP TÀI" time="7:30" date="Ngày 23/12/2022 (Dương lịch)<br/>Ngày 01/12/2022 (Âm lịch)" description="mo ta" />
+          <WeddingInfoBox title="LỄ NẠP TÀI" time="7:30" date="Ngày 23/12/2022 (Dương lịch) - Ngày 01/12/2022 (Âm lịch)" description="TẠI NHÀ GÁI <br/>Nguyên Thắng, Thiệu Nguyên, Thiệu Hóa, T. Hóa" />
         </div>
         <br/>
         <div className="col-md-8 col-md-offset-4">
-          <WeddingInfoBox title="LỄ THÀNH HÔN" time="7:30" date="Ngày 23/12/2022 (Dương lịch)<br/>Ngày 01/12/2022 (Âm lịch)" />
+          <WeddingInfoBox title="LỄ THÀNH HÔN" time="7:30" date="Ngày 23/12/2022 (Dương lịch) - Ngày 01/12/2022 (Âm lịch)" description="TẠI NHÀ TRAI <br/>Nguyên Thắng, Thiệu Nguyên, Thiệu Hóa, T. Hóa"/>
         </div>
         {/*<ButtonLive />*/}
       </Fragment>

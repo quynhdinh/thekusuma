@@ -8,7 +8,7 @@ function WishesSection() {
         <div className="row">
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-              <h2 className="main-font">Lời chúc từ khách mời</h2>
+              <h2 className="main-font">Wishes From The Invitees</h2>
             </div>
           </div>
           <div className="row">

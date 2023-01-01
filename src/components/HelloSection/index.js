@@ -30,7 +30,7 @@ function HelloSection({ isInvitation }) {
                 <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
-                <h3 className="main-font">Dinda Saraswati, S.I.Kom.</h3>
+                <h3 className="main-font">Hoàng Thị Mộng Vân</h3>
                 <p className="parent-name parent-name__top">
                   Putri Bapak Totok Somo Dipoyono <br />& Ibu Setyo Listiani
                 </p>
@@ -61,15 +61,13 @@ function HelloSection({ isInvitation }) {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                <h2 className="main-font">Seputar Covid-19</h2>
+                <h2 className="main-font">Covid-19</h2>
                 <p className="info">
-                  Berkaitan dengan kondisi pandemik saat ini, keberlangsungan acara kami mengacu pada pedoman
-                  Kementerian Kesehatan, yaitu memberlakukan pembatasan jarak dan pembatasan jumlah tamu undangan.
+                  Liên quan đến tình trạng các vấn đề dịch bệnh hiện tại, và không gian tổ chức của sự kiện của chúng tôi, đề cập đến các nguyên tắc Bộ Y tế cụ thể là áp đặt các hạn chế về khoảng cách và số lượng khách mời.
                 </p>
-                <p className="info">
-                  Maka dari itu, dengan segala kerendahan hati, kami mohon maaf jika belum bisa mengundang saudara/i
-                  dihari bahagia kami. Sekiranya do'a dari saudara/i sudah lebih dari cukup bagi kami. Semoga kita semua
-                  selalu dalam lindungan Allah SWT. Aamiin ya rabbal allamiin..
+                <p className="info">Vì vậy, với tất cả sự khiêm tốn, chúng tôi chân thành xin lỗi nếu chúng tôi không thể mời anh/chị/em tới dự ngày hạnh phúc của chúng tôi.
+                </p>
+                <p className="info">Trân trọng.
                 </p>
               </div>
             </div>

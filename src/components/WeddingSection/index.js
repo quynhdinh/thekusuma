@@ -10,7 +10,11 @@ function WeddingSection({ isInvitation }) {
     return (
       <Fragment>
         <div className="col-md-8 col-md-offset-4">
-          <WeddingInfoBox title="Akad Nikah" time="08.00 WIB (Live di Instagram)" date="Sabtu, 03 Oktober 2020" />
+          <WeddingInfoBox title="LỄ NẠP TÀI" time="08.00 WIB (Live di Instagram)" date="Sabtu, 03 Oktober 2020" />
+        </div>
+        <br/>
+        <div className="col-md-8 col-md-offset-4">
+          <WeddingInfoBox title="LỄ THÀNH HÔN" time="08.00 WIB (Live di Instagram)" date="Sabtu, 03 Oktober 2020" />
         </div>
         {/*<ButtonLive />*/}
       </Fragment>
@@ -25,8 +29,8 @@ function WeddingSection({ isInvitation }) {
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
               <span className="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</span>
-              <h2 className="main-font main-font__wedding">Akad Nikah dan Syukuran Pernikahan</h2>
-              <span className="sub-title sub-title__wedding">Insha Allah akan diselenggarakan pada:</span>
+              <h2 className="main-font main-font__wedding">Wedding Information</h2>
+              <span className="sub-title sub-title__wedding">Thông tin chi tiết</span>
             </div>
           </div>
           <div className="row">

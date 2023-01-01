@@ -7,7 +7,7 @@ function PhotoSection() {
   const renderYoutubeVideo = () => {
     return (
       <iframe
-        title="Pre-Wedding Dinda & Indra"
+        title="Pre-Wedding Bình & Vân"
         width="100%"
         height="360px"
         src="https://www.youtube.com/embed/75w39OY7N-k"
@@ -24,12 +24,9 @@ function PhotoSection() {
         <div className="row">
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-              <h2 className="main-font">#TheKusuma</h2>
+              <h2 className="main-font">The Moments</h2>
               <p className="sub-title">
-                "And of His signs is that He created for you from yourselves mates that you may find tranquility in
-                them; and He placed between you affection and mercy. Indeed in that are signs for a people who give
-                thought" <br />
-                (Ar-Rum 30:21).
+                Một khi đã nắm chặt tay thì sẽ không bao giờ buông. Một khi đã yêu thương hết lòng thì sẽ không dễ dàng từ bỏ. Bởi vì… tìm được một hạnh phúc quá khó. Nó phải trả giá bằng niềm đau, bởi những giọt nước mắt và thời gian. Nhớ nhé và phải nắm thật chặt em nhé!
               </p>
             </div>
           </div>

@@ -12,7 +12,7 @@ function WeddingSection({ isInvitation }) {
         <div className="col-md-8 col-md-offset-4">
           <WeddingInfoBox title="Akad Nikah" time="08.00 WIB (Live di Instagram)" date="Sabtu, 03 Oktober 2020" />
         </div>
-        <ButtonLive />
+        {/*<ButtonLive />*/}
       </Fragment>
     );
   };
@@ -34,13 +34,13 @@ function WeddingSection({ isInvitation }) {
             {isInvitation && (
               <div className="col-md-10 col-md-offset-1">
                 <WeddingInfoBox
-                  title="Akad Nikah"
+                  title="Mộng Vân"
                   time="Akan dilaksanakan pagi hari "
                   date="Sabtu, 03 Oktober 2020"
                   description="Orange Ballroom <br/>HARRIS Hotel Sentraland, Semarang"
                 />
                 <WeddingInfoBox
-                  title="Syukuran Pernikahan"
+                  title="Mộng Vân"
                   time="Sesuai jadwal undangan di e-ticket "
                   date="Sabtu, 03 Oktober 2020"
                   description="Orange Ballroom <br/>HARRIS Hotel Sentraland, Semarang"

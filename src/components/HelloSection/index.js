@@ -15,7 +15,7 @@ function HelloSection({ isInvitation }) {
         <div className="container">
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-              <h2 className="main-font">Assalamualaikum Wr. Wb</h2>
+              <h2 className="main-font">Wedding</h2>
               <h3 className="sub-title hs">{finalSubtitle}</h3>
               <p className="info">
                 Dengan memohon Rahmat dan Ridho Illahi, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk
@@ -32,7 +32,9 @@ function HelloSection({ isInvitation }) {
               <div className="desc-groom">
                 <h3 className="main-font">Hoàng Thị Mộng Vân</h3>
                 <p className="parent-name parent-name__top">
-                  Putri Bapak Totok Somo Dipoyono <br />& Ibu Setyo Listiani
+                  Bố: Nguyễn Văn Tư <br />
+                  Mẹ: Nguyễn Thị Tâm <br />
+                  Nguyên Thắng, Thiệu Nguyên, Thiệu Hóa, Thanh Hóa
                 </p>
               </div>
             </div>
@@ -47,9 +49,11 @@ function HelloSection({ isInvitation }) {
                 <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-bride">
-                <h3 className="main-font">Indra Kusuma, S.Kom.</h3>
+                <h3 className="main-font">Tên chú rể.</h3>
                 <p className="parent-name">
-                  Putra Bapak Bunari <br />& Ibu Suratun
+                  Bố: Nguyễn Văn Tư <br />
+                  Mẹ: Nguyễn Thị Tâm <br />
+                  Nguyên Thắng, Thiệu Nguyên, Thiệu Hóa, Thanh Hóa
                 </p>
               </div>
             </div>

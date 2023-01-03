@@ -18,31 +18,31 @@ export const wishlist = [
   {
     name: 'MAI TÌNH',
     infoName: 'IGC',
-    description: `Thật vui vì cuối cùng ngày này cũng tới với bạn. Cuối cùng thì bạn đã dừng chân tại bến đỗ, mảnh ghép hoàn hảo của cuộc đời mình. Tớ không biết nói gì hơn, thành tâm chúc hai bạn hạnh phúc và hạnh phúc, sống một cuộc sống vui vẻ cùng nhau mãi mãi.`,
+    description: `Chúc mừng tân lang - tân nương điển trai xinh đẹp của tớ. Chúc 2 cậu sẽ có một khởi đầu mới thuận lợi, cùng nhau xây đắp một mái ấm hạnh phúc mà hai cậu vẫn ao ước nhé. Happy Wedding!`,
     image: risa,
   },
   {
     name: 'MAI TÌNH',
     infoName: 'IGC',
-    description: `Thật vui vì cuối cùng ngày này cũng tới với bạn. Cuối cùng thì bạn đã dừng chân tại bến đỗ, mảnh ghép hoàn hảo của cuộc đời mình. Tớ không biết nói gì hơn, thành tâm chúc hai bạn hạnh phúc và hạnh phúc, sống một cuộc sống vui vẻ cùng nhau mãi mãi.`,
+    description: `Người xưa có nói "Tu 10 năm mới chung chuyến đò, tu 100 năm mới chung chăn gối". Đến với nhau là do duyên phận, còn hạnh phúc đến trọn đời do hai người cùng vun đắp. Các em hãy cùng nhau xây dựng một tổ ấm và bên nhau đến "Đầu bạc răng long" mà thôi phải nói là "Tóc nhuộm răng giả" chứ bây giờ già vẫn cần đẹp :D nhỉ Hãy nhớ câu "Thuận vợ thuận chồng tát biển Đông cũng cạn". Chúc đôi uyên ương có một lễ cưới trang trọng, đầm ấm đánh dấu bước khởi đầu của con đường Hạnh Phúc`,
     image: Moletta,
   },
   {
     name: 'Dexter',
     infoName: 'Dongnai hospital',
-    description: `Thật vui vì cuối cùng ngày này cũng tới với bạn. Cuối cùng thì bạn đã dừng chân tại bến đỗ, mảnh ghép hoàn hảo của cuộc đời mình. Tớ không biết nói gì hơn, thành tâm chúc hai bạn hạnh phúc và hạnh phúc, sống một cuộc sống vui vẻ cùng nhau mãi mãi.`,
+    description: `Hôn nhân ko phải là nơi thuyền tình cập bến, mà là nơi 2 người yêu nhau quyết định cùng giăng buồm vượt sóng ra khơi”. Chúc mừng TOÀN đã không còn đơn PHƯƠNG trong hành trình hạnh phúc này!`,
     image: hapsari,
   },
   {
     name: 'Iris',
     infoName: 'IGC',
-    description: `Thật vui vì cuối cùng ngày này cũng tới với bạn. Cuối cùng thì bạn đã dừng chân tại bến đỗ, mảnh ghép hoàn hảo của cuộc đời mình. Tớ không biết nói gì hơn, thành tâm chúc hai bạn hạnh phúc và hạnh phúc, sống một cuộc sống vui vẻ cùng nhau mãi mãi.`,
+    description: `Chúc Toàn ❤ Phương về chung 1 nhà. Không chúc đầu bạc răng long, nhỡ 35-40t tóc bạc răng rụng thì k ổn nên chúc sống bên nhau trọn đời trọn kiếp và thật hạnh phúc nha 2 đứa :D`,
     image: man,
   },
   {
     name: 'Mai',
     infoName: 'ABC',
-    description: `Thật vui vì cuối cùng ngày này cũng tới với bạn. Cuối cùng thì bạn đã dừng chân tại bến đỗ, mảnh ghép hoàn hảo của cuộc đời mình. Tớ không biết nói gì hơn, thành tâm chúc hai bạn hạnh phúc và hạnh phúc, sống một cuộc sống vui vẻ cùng nhau mãi mãi.`,
+    description: `Chúc cho Toàn Phương nên đôi vợ chồng Chúc cho hai bạn mặn nồng tình thương Thương nhau thương tới tận già Thương cho tới lúc bạc cha mái đầu.`,
     image: dianara,
   },
   {

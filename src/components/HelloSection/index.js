@@ -16,12 +16,12 @@ function HelloSection({ isInvitation }) {
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
               <h2 className="main-font">Wedding</h2>
-              <h3 className="sub-title hs">{finalSubtitle}</h3>
-              <p className="info">
-                Dengan memohon Rahmat dan Ridho Illahi, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk
-                rumah tangga yang Sakinah, Mawaddah wa Rahmah, kami mohon do'a agar senantiasa diberikan kelancaran dan
-                keberkahan.
-              </p>
+              <h3 className="sub-title hs">HÔN LỄ ĐƯỢC TỔ CHỨC VÀO HỒI 11H30</h3>
+              <h4 className="sub-title hs">12-02-2023</h4>
+              <p className="info">(Tức ngày 02 tháng 12 năm 2022)</p>
+              <h4 className="sub-title hs">TẠI SẢNH EDEN NHÀ HÀNG EROS PALACE</h4>
+              <p className="info">15 Đồng Khởi, P. Tân Tiến, Biên Hòa, Đồng Nai</p>
+              <p className="info">Sự hiện diện của quý khách là niềm vinh hạnh cho gia đình chúng tôi</p>
             </div>
           </div>
           <div className="couple-wrap">
@@ -32,9 +32,9 @@ function HelloSection({ isInvitation }) {
               <div className="desc-groom">
                 <h3 className="main-font">Hoàng Thị Mộng Vân</h3>
                 <p className="parent-name parent-name__top">
-                  Bố: Nguyễn Văn Tư <br />
-                  Mẹ: Nguyễn Thị Tâm <br />
-                  Nguyên Thắng, Thiệu Nguyên, Thiệu Hóa, Thanh Hóa
+                  Bố: Hoàng Quốc Thông <br />
+                  Mẹ: Phạm Thị Thị <br />
+                  Phú Ngọc, Định Quán, Đồng Nai
                 </p>
               </div>
             </div>
@@ -49,11 +49,11 @@ function HelloSection({ isInvitation }) {
                 <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-bride">
-                <h3 className="main-font">Tên chú rể.</h3>
+                <h3 className="main-font">Dương Xuân Bình</h3>
                 <p className="parent-name">
-                  Bố: Nguyễn Văn Tư <br />
-                  Mẹ: Nguyễn Thị Tâm <br />
-                  Nguyên Thắng, Thiệu Nguyên, Thiệu Hóa, Thanh Hóa
+                  Bố: Dương Xuân Huệ <br />
+                  Mẹ: Phạm Thị Hương <br />
+                  Trảng Dài, Biên Hòa, Đồng Nai
                 </p>
               </div>
             </div>

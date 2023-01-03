@@ -18,8 +18,8 @@ function HelloSection({ isInvitation }) {
               <h2 className="main-font">Wedding</h2>
               <h3 className="sub-title hs">HÔN LỄ ĐƯỢC TỔ CHỨC VÀO HỒI 11H30</h3>
               <h4 className="sub-title hs">12-02-2023</h4>
-              <p className="info">(Tức ngày 02 tháng 12 năm 2022)</p>
-              <h4 className="sub-title hs">TẠI SẢNH EDEN NHÀ HÀNG EROS PALACE</h4>
+              <p className="info">(Tức ngày 22 tháng 1 năm Quý Mão)</p>
+              <h4 className="sub-title hs">TẠI SẢNH EDEN - NHÀ HÀNG EROS PALACE</h4>
               <p className="info">15 Đồng Khởi, P. Tân Tiến, Biên Hòa, Đồng Nai</p>
               <p className="info">Sự hiện diện của quý khách là niềm vinh hạnh cho gia đình chúng tôi</p>
             </div>

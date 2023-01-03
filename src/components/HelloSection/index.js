@@ -30,7 +30,7 @@ function HelloSection({ isInvitation }) {
                 <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
-                <h3 className="main-font">Hoàng Thị Mộng Vân</h3>
+                <h3 className="main-font">Hoang Thi Mong Van</h3>
                 <p className="parent-name parent-name__top">
                   Bố: Hoàng Quốc Thông <br />
                   Mẹ: Phạm Thị Thị <br />
@@ -50,7 +50,7 @@ function HelloSection({ isInvitation }) {
                 <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-bride">
-                <h3 className="main-font">Dương Xuân Bình</h3>
+                <h3 className="main-font">Duong Xuan Binh</h3>
                 <p className="parent-name">
                   Bố: Dương Xuân Huệ <br />
                   Mẹ: Phạm Thị Hương <br />

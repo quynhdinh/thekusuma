@@ -36,6 +36,7 @@ function HelloSection({ isInvitation }) {
                   Mẹ: Phạm Thị Thị <br />
                   Phú Ngọc, Định Quán, Đồng Nai
                 </p>
+                <img src={Bride} alt="Girl in a jacket" width="120" height="120"/>
               </div>
             </div>
             <p className="heart text-center">
@@ -55,6 +56,7 @@ function HelloSection({ isInvitation }) {
                   Mẹ: Phạm Thị Hương <br />
                   Trảng Dài, Biên Hòa, Đồng Nai
                 </p>
+                <img src={Groom} alt="Girl in a jacket" width="120" height="120"/>
               </div>
             </div>
           </div>

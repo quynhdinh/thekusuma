@@ -3,7 +3,7 @@ import Moletta from '@assets/images/w-moletta.jpg';
 import hapsari from '@assets/images/w-hapsari.jpg';
 import dianara from '@assets/images/w-dianara.jpg';
 import rahma from '@assets/images/w-rahma.jpg';
-import man from './assets/user.png';
+import iris from '@assets/images/iris.jpg';
 import fajar from './assets/w-fajar.jpg';
 import risa from './assets/w-risa.jpg';
 import ghea from './assets/w-ghea.jpg';
@@ -37,7 +37,7 @@ export const wishlist = [
     name: 'Iris Hoàng',
     infoName: 'IGC',
     description: `Chúc Bình ❤ Vân về chung 1 nhà. Không chúc đầu bạc răng long, nhỡ 35-40t tóc bạc răng rụng thì k ổn nên chúc sống bên nhau trọn đời trọn kiếp và thật hạnh phúc nha 2 đứa :D`,
-    image: man,
+    image: iris,
   },
   {
     name: 'Mai Ngũ',

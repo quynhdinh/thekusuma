@@ -62,24 +62,24 @@ function HelloSection({ isInvitation }) {
           </div>
         </div>
       </div>
-      {!isInvitation ? (
-        <div id="fh5co-couple" className="fh5co-section-gray" css={styWrapper}>
-          <div className="container">
-            <div className="row">
-              <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                <h2 className="main-font">Covid-19</h2>
-                <p className="info">
-                  Liên quan đến tình trạng các vấn đề dịch bệnh hiện tại, và không gian tổ chức của sự kiện của chúng tôi, đề cập đến các nguyên tắc Bộ Y tế cụ thể là áp đặt các hạn chế về khoảng cách và số lượng khách mời.
-                </p>
-                <p className="info">Vì vậy, với tất cả sự khiêm tốn, chúng tôi chân thành xin lỗi nếu chúng tôi không thể mời anh/chị/em tới dự ngày hạnh phúc của chúng tôi.
-                </p>
-                <p className="info">Trân trọng.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      ) : null}
+      {/*{!isInvitation ? (*/}
+      {/*  <div id="fh5co-couple" className="fh5co-section-gray" css={styWrapper}>*/}
+      {/*    <div className="container">*/}
+      {/*      <div className="row">*/}
+      {/*        <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">*/}
+      {/*          <h2 className="main-font">Covid-19</h2>*/}
+      {/*          <p className="info">*/}
+      {/*            Liên quan đến tình trạng các vấn đề dịch bệnh hiện tại, và không gian tổ chức của sự kiện của chúng tôi, đề cập đến các nguyên tắc Bộ Y tế cụ thể là áp đặt các hạn chế về khoảng cách và số lượng khách mời.*/}
+      {/*          </p>*/}
+      {/*          <p className="info">Vì vậy, với tất cả sự khiêm tốn, chúng tôi chân thành xin lỗi nếu chúng tôi không thể mời anh/chị/em tới dự ngày hạnh phúc của chúng tôi.*/}
+      {/*          </p>*/}
+      {/*          <p className="info">Trân trọng.*/}
+      {/*          </p>*/}
+      {/*        </div>*/}
+      {/*      </div>*/}
+      {/*    </div>*/}
+      {/*  </div>*/}
+      {/*) : null}*/}
     </Fragment>
   );
 }

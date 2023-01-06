@@ -27,16 +27,16 @@ function HelloSection({ isInvitation }) {
           <div className="couple-wrap">
             <div className="couple-half">
               <div className="groom">
-                <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
+                <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
-                <h3 className="main-font">Hoang Thi Mong Van</h3>
+                <h3 className="main-font">Duong Xuan Binh</h3>
                 <p className="parent-name parent-name__top">
-                  Bố: Hoàng Quốc Thông <br />
-                  Mẹ: Phạm Thị Thị <br />
-                  Phú Ngọc, Định Quán, Đồng Nai
+                  Bố: Dương Xuân Huệ <br />
+                  Mẹ: Phạm Thị Hương <br />
+                  Trảng Dài, Biên Hòa, Đồng Nai
                 </p>
-                <img src={Bride} alt="Girl in a jacket" width="120" height="120"/>
+                <img src={Groom} alt="Girl in a jacket" width="120" height="120"/>
               </div>
             </div>
             <p className="heart text-center">
@@ -47,16 +47,16 @@ function HelloSection({ isInvitation }) {
             </div>
             <div className="couple-half">
               <div className="bride">
-                <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
+                <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-bride">
-                <h3 className="main-font">Duong Xuan Binh</h3>
+                <h3 className="main-font">Hoang Thi Mong Van</h3>
                 <p className="parent-name">
-                  Bố: Dương Xuân Huệ <br />
-                  Mẹ: Phạm Thị Hương <br />
-                  Trảng Dài, Biên Hòa, Đồng Nai
+                  Bố: Hoàng Quốc Thông <br />
+                  Mẹ: Phạm Thị Thị <br />
+                  Phú Ngọc, Định Quán, Đồng Nai
                 </p>
-                <img src={Groom} alt="Girl in a jacket" width="120" height="120"/>
+                <img src={Bride} alt="Girl in a jacket" width="120" height="120"/>
               </div>
             </div>
           </div>

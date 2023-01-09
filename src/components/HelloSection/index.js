@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import { bool } from 'prop-types';
 
-import Bride from '@assets/images/p-dinda-2.jpg';
+import Bride from '@assets/images/gallery-26.jpg';
 import Groom from '@assets/images/p-indra.jpg';
 
 import { styWrapper } from './styles';
@@ -19,7 +19,7 @@ function HelloSection({ isInvitation }) {
               <h3 className="sub-title hs">HÔN LỄ ĐƯỢC TỔ CHỨC VÀO LÚC 11H30</h3>
               <h4 className="sub-title hs">CHỦ NHẬT, NGÀY 12 THÁNG 02 NĂM 2023</h4>
               <p className="info">(Nhằm ngày 22 tháng 01 năm Quý Mão)</p>
-              <h4 className="sub-title hs">TẠI SẢNH EDEN - NHÀ HÀNG EROS PALACE</h4>
+              <h4 className="sub-title hs">TẠI SẢNH EDEN - Trung tâm hội nghị tiệc cưới EROS PALACE</h4>
               <p className="info">15 Đồng Khởi, P. Tân Tiến, Biên Hòa, Đồng Nai</p>
               <p className="info">Sự hiện diện của quý khách là niềm vinh hạnh cho gia đình chúng tôi</p>
             </div>
@@ -52,7 +52,7 @@ function HelloSection({ isInvitation }) {
               <div className="desc-bride">
                 <h3 className="main-font">Hoang Thi Mong Van</h3>
                 <p className="parent-name">
-                  Bố: Hoàng Quốc Thông <br />
+                  Bố: Hoàng Quốc Thống <br />
                   Mẹ: Phạm Thị Thị <br />
                   Phú Ngọc, Định Quán, Đồng Nai
                 </p>

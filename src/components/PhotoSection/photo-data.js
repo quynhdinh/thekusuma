@@ -37,45 +37,50 @@ import Gallery36 from '@assets/images/gallery-36.jpg';
 
 export const photos = [
   {
-    original: Gallery1,
-    thumbnail: Gallery1,
+    original: Gallery18,
+    thumbnail: Gallery18,
   },
-  {
-    original: Gallery2,
-    thumbnail: Gallery2,
-  },
-  {
-    original: Gallery3,
-    thumbnail: Gallery3,
-  },
-  {
-    original: Gallery4,
-    thumbnail: Gallery4,
-  },
-  {
-    original: Gallery5,
-    thumbnail: Gallery5,
-  },
-  {
-    original: Gallery6,
-    thumbnail: Gallery6,
-  },
+  // {
+  //   original: Gallery1,
+  //   thumbnail: Gallery1,
+  // },
+  // {
+  //   original: Gallery2,
+  //   thumbnail: Gallery2,
+  // },
+  // {
+  //   original: Gallery3,
+  //   thumbnail: Gallery3,
+  // },
+  // {
+  //   original: Gallery4,
+  //   thumbnail: Gallery4,
+  // },
+  // {
+  //   original: Gallery5,
+  //   thumbnail: Gallery5,
+  // },
+  // {
+  //   original: Gallery6,
+  //   thumbnail: Gallery6,
+  // },
   {
     original: Gallery7,
     thumbnail: Gallery7,
   },
-  {
-    original: Gallery8,
-    thumbnail: Gallery8,
-  },
+  // {
+  //   original: Gallery8,
+  //   thumbnail: Gallery8,
+  // },
   {
     original: Gallery9,
     thumbnail: Gallery9,
   },
+  // {
+  //   original: Gallery10,
+  //   thumbnail: Gallery10,
+  // },
   {
-    original: Gallery10,
-    thumbnail: Gallery10,
-  },{
     original: Gallery11,
     thumbnail: Gallery11,
   },
@@ -104,60 +109,57 @@ export const photos = [
     thumbnail: Gallery17,
   },
   {
-    original: Gallery18,
-    thumbnail: Gallery18,
-  },
-  {
     original: Gallery19,
     thumbnail: Gallery19,
   },
-  {
-    original: Gallery20,
-    thumbnail: Gallery20,
-  },{
-    original: Gallery21,
-    thumbnail: Gallery21,
-  },
-  {
-    original: Gallery22,
-    thumbnail: Gallery22,
-  },
-  {
-    original: Gallery23,
-    thumbnail: Gallery23,
-  },
-  {
-    original: Gallery24,
-    thumbnail: Gallery24,
-  },
-  {
-    original: Gallery25,
-    thumbnail: Gallery25,
-  },
-  {
-    original: Gallery26,
-    thumbnail: Gallery26,
-  },
-  {
-    original: Gallery27,
-    thumbnail: Gallery27,
-  },
-  {
-    original: Gallery28,
-    thumbnail: Gallery28,
-  },
-  {
-    original: Gallery29,
-    thumbnail: Gallery29,
-  },
-  {
-    original: Gallery30,
-    thumbnail: Gallery30,
-  },
-  {
-    original: Gallery31,
-    thumbnail: Gallery31,
-  },
+  // {
+  //   original: Gallery20,
+  //   thumbnail: Gallery20,
+  // },
+  // {
+  //   original: Gallery21,
+  //   thumbnail: Gallery21,
+  // },
+  // {
+  //   original: Gallery22,
+  //   thumbnail: Gallery22,
+  // },
+  // {
+  //   original: Gallery23,
+  //   thumbnail: Gallery23,
+  // },
+  // {
+  //   original: Gallery24,
+  //   thumbnail: Gallery24,
+  // },
+  // {
+  //   original: Gallery25,
+  //   thumbnail: Gallery25,
+  // },
+  // {
+  //   original: Gallery26,
+  //   thumbnail: Gallery26,
+  // },
+  // {
+  //   original: Gallery27,
+  //   thumbnail: Gallery27,
+  // },
+  // {
+  //   original: Gallery28,
+  //   thumbnail: Gallery28,
+  // },
+  // {
+  //   original: Gallery29,
+  //   thumbnail: Gallery29,
+  // },
+  // {
+  //   original: Gallery30,
+  //   thumbnail: Gallery30,
+  // },
+  // {
+  //   original: Gallery31,
+  //   thumbnail: Gallery31,
+  // },
   {
     original: Gallery32,
     thumbnail: Gallery32,
@@ -170,12 +172,12 @@ export const photos = [
     original: Gallery34,
     thumbnail: Gallery34,
   },
-  {
-    original: Gallery35,
-    thumbnail: Gallery35,
-  },
-  {
-    original: Gallery36,
-    thumbnail: Gallery36,
-  }
+  // {
+  //   original: Gallery35,
+  //   thumbnail: Gallery35,
+  // },
+  // {
+  //   original: Gallery36,
+  //   thumbnail: Gallery36,
+  // }
 ];

@@ -14,7 +14,7 @@ function WeddingSection({ isInvitation }) {
         </div>
         <br/>
         <div className="col-md-8 col-md-offset-4">
-          <WeddingInfoBox title="LỄ THÀNH HÔN" time="7:30" date="Ngày 12/02/2023 (Dương lịch) - Ngày 22/01/2023 (Âm lịch)" description="Sảnh Eden, Nhà Hàng Eros Palace, Biên Hòa Đồng Nai"/>
+          <WeddingInfoBox title="LỄ THÀNH HÔN" time="11:30" date="Ngày 12/02/2023 (Dương lịch) - Ngày 22/01/2023 (Âm lịch)" description="Sảnh Eden, Nhà Hàng Eros Palace, Biên Hòa Đồng Nai"/>
         </div>
         {/*<ButtonLive />*/}
       </Fragment>

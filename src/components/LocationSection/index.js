@@ -18,7 +18,7 @@ function LocationSection() {
                   rel="noreferrer"
                   style={{ color: '#828282' }}
                 >
-                  <strong>SẢNH EDEN - Nhà Hàng EROS PALACE</strong>
+                  <strong>SẢNH EDEN - Trung tâm hội nghị tiệc cưới EROS PALACE</strong>
                 </a>{' '}
                 <br />
                 Số 15 Đồng Khởi, Khu phố 6, P. Tân Tiến, Biên Hòa, Đồng Nai

@@ -30,9 +30,9 @@ function PhotoSection() {
               </p>
             </div>
           </div>
-          <div className="row">
-            <div className="col-md-10 col-md-offset-1">{renderYoutubeVideo()}</div>
-          </div>
+          {/*<div className="row">*/}
+          {/*  <div className="col-md-10 col-md-offset-1">{renderYoutubeVideo()}</div>*/}
+          {/*</div>*/}
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
               <ImageGallery items={photos} showBullets={false} />;

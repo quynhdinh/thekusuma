@@ -10,7 +10,7 @@ function ClickToSeeDetail({ loading, onClick }) {
         <div className="button">
           <span></span>
         </div>
-        <span className="text">{loading ? 'Menyiapkan data..' : 'Click vào đây để xem chi tiết'}</span>
+        <span className="text">{loading ? 'Đang tải...' : 'Click vào đây để xem chi tiết'}</span>
       </section>
     </div>
   );

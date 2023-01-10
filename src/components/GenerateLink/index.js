@@ -13,7 +13,7 @@ function GenerateLink() {
 
   const { data, loading } = useGuestData();
 
-  const URL = `https://thekusuma.com?to=${encodeURIComponent(name)}`;
+  const URL = `https://binh-van-wedding.netlify.app?to=${encodeURIComponent(name)}`;
 
   const handleChange = (e) => {
     setType(parseInt(e.target.value, 10));
@@ -40,17 +40,17 @@ function GenerateLink() {
       return (
         <Fragment>
           <div class="form-group">
-            <label for="exampleInputEmail1">Nama Tamu</label>
+            <label for="exampleInputEmail1">Tên cá nhân</label>
             <input
               value={name}
               onChange={handleSetName}
               type="text"
               class="form-control"
-              placeholder="Nama tamu.."
+              placeholder="Tên khách mời..."
             ></input>
           </div>
           <button type="submit" class="btn btn-primary" onClick={() => setShowResult(true)}>
-            Generate Link
+            Lấy link
           </button>
         </Fragment>
       );
@@ -59,14 +59,15 @@ function GenerateLink() {
     if (type === ALL) {
       return (
         <Fragment>
-          <div class="checkbox">
-            <label>
-              <input type="checkbox" checked={isInvitation} onClick={() => setIsInvitation(!isInvitation)} /> Tipe
-              Invitation (Datang offline)
-            </label>
-          </div>
+          {/*<div class="checkbox">*/}
+          {/*  <label>*/}
+          {/*    <input type="checkbox" checked={isInvitation} onClick={() => setIsInvitation(!isInvitation)} /> Tipe*/}
+          {/*    Invitation (Datang offline)*/}
+          {/*  </label>*/}
+          {/*</div>*/}
+          {/*offline???*/}
           <button type="submit" class="btn btn-primary" onClick={() => setShowResult(true)}>
-            Generate Link
+            Xem tất cả
           </button>
         </Fragment>
       );
@@ -80,7 +81,7 @@ function GenerateLink() {
       return (
         <div className="col-md-4 col-md-offset-4">
           <div class="alert alert-success" role="alert" style={{ marginTop: '20px' }}>
-            <strong>Berhasil!</strong> <br />
+            <strong>Xong! Hãy copy link này gửi cho khách mời nhé</strong> <br />
             <a href={URL} target="_blank" rel="noreferrer" style={{ color: 'green', textDecoration: 'underline' }}>
               {URL}
             </a>
@@ -90,7 +91,7 @@ function GenerateLink() {
               style={{ marginLeft: '8px' }}
               onClick={() => handleCopy(URL)}
             >
-              {successCopy ? 'Tersalin' : 'Salin'}
+              {successCopy ? 'Đã copy!' : 'Sao chép'}
             </button>
           </div>
         </div>
@@ -104,16 +105,16 @@ function GenerateLink() {
             <table class="table">
               <thead>
                 <tr>
-                  <th>No</th>
-                  <th>Nama</th>
-                  <th>Keterangan</th>
-                  <th>Link</th>
+                  <th>Số thứ tự</th>
+                  <th>Tên</th>
+                  <th>Thông tin</th>
+                  <th>Đường link</th>
                 </tr>
               </thead>
               <tbody>
                 {data.map((d, index) => {
                   const offlineInvitation = isInvitation ? `&type=invitation&code=${d.code}` : '';
-                  const mapURL = `https://thekusuma.com?to=${encodeURIComponent(d.name)}${offlineInvitation}`;
+                  const mapURL = `https://binh-van-wedding.netlify.app?to=${encodeURIComponent(d.name)}${offlineInvitation}`;
                   return (
                     <tr>
                       <td>{index + 1}</td>
@@ -144,20 +145,20 @@ function GenerateLink() {
 
   return (
     <div>
-      <h2 className="title">Generator of Link Invitation</h2>
+      <h2 className="title">Lấy link cho khách mời</h2>
       <h3 className="title__sub">Bình & Vân Wedding</h3>
 
-      {loading && <h4 style={{ textAlign: 'center' }}>Memuat data..</h4>}
+      {loading && <h4 style={{ textAlign: 'center' }}>Đang tải data..</h4>}
 
       {!loading && (
         <Fragment>
           <div className="row">
             <div className="col-md-4 col-md-offset-4">
               <div class="form-group">
-                <label for="exampleInputEmail1">Tipe Link</label>
+                <label for="exampleInputEmail1">Loại</label>
                 <select class="form-control" value={type} onChange={handleChange}>
-                  <option value={PERSONAL}>Individu</option>
-                  <option value={ALL}>Semua Undangan</option>
+                  <option value={PERSONAL}>Cá nhân</option>
+                  <option value={ALL}>Xem tất cả</option>
                 </select>
               </div>
               {renderContentType()}

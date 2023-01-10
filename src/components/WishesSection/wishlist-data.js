@@ -16,9 +16,9 @@ export const wishlist = [
     image: Zakiy,
   },
   {
-    name: 'Tín',
+    name: 'Lương Minh Tín',
     infoName: 'Trung tâm VMG',
-    description: `Chúc mừng tân lang - tân nương điển trai xinh đẹp của tớ. Chúc 2 cậu sẽ có một khởi đầu mới thuận lợi, cùng nhau xây đắp một mái ấm hạnh phúc mà hai cậu vẫn ao ước nhé. Happy Wedding!`,
+    description: "Chúc mừng tân lang - tân nương điển trai xinh đẹp của tớ <br> Chúc 2 cậu sẽ có một khởi đầu mới thuận lợi, cùng nhau xây đắp một mái ấm hạnh phúc mà hai cậu vẫn ao ước nhé. Happy Wedding!",
     image: risa,
   },
   {

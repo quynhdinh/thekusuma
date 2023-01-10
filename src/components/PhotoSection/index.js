@@ -35,7 +35,7 @@ function PhotoSection() {
           {/*</div>*/}
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
-              <ImageGallery items={photos} showBullets={false} />;
+              <ImageGallery items={photos.sort((a, b) => 0.5 - Math.random())} showBullets={false} />;
             </div>
           </div>
         </div>

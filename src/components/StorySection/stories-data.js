@@ -1,8 +1,9 @@
-import ImgKembaliBerjumpa from '@assets/images/p-kembali-berjumpa.jpg';
-import ImgJakartaKroasia from '@assets/images/p-jakarta-kroasia.jpg';
-import ImgBoarding from '@assets/images/p-boarding-smg.jpg';
-import ImgKembaliKeIndonesia from '@assets/images/p-kembali-ke-indonesia.jpg';
-import ImgNdodokLawang from '@assets/images/p-ndodok-lawang.jpg';
+import ImgKembaliBerjumpa from '@assets/images/w-hapsari.jpg';
+import ImgJakartaKroasia from '@assets/images/haiau.jpg';
+import ImgBoarding from '@assets/images/w-dianara.jpg';
+import ImgNdodokLawang from '@assets/images/iris.jpg';
+import risa from '@assets/images/iris.jpg';
+import iris from '@assets/images/iris.jpg';
 
 export const stories = [
   {
@@ -31,7 +32,7 @@ export const stories = [
     date: '24/12/2022',
     description:
       'Yêu xa mà lại gặp mùa dịch thì chắc khó lắm nhỉ? Tình yêu vẫn luôn là một thứ gì đó chẳng có ai có thể đoán trước được, rung động đẹp đẽ, hồi mới quen chúng tôi yêu nhau đang còn độ mặn nồng. Sau khoảng thời gian làm việc vất vã trong tuần thì lại vội vàng bắt chuyến xe sớm nhất để được cùng nhau đi ăn, lê la cafe, ... Nhưng mùa dịch bệnh thì những cái bình thưởng ấy lại cần khác đi một chút thì phải? Dịch khiến các tỉnh cũng bị giãn cách, những chuyến xe không được hoạt động nữa. Vì vậy những thói quen cũng phải thay đổi là tìm cho nhau những câu chuyện hay những trò chơi online, hay là vừa gọi vừa làm việc thay vì gặp. Và chẳng còn có những cuối tuần được gặp nhau. Đơn giản hơn chút nữa là không được dỗi hờn vu vơ. Cũng được không than thuở hay càm ràm những chuyện vụn vặt. Rồi cũng có lần giận dỗi nhìn nhau qua điện thoại mà bất lực. Những giọt nước mắt được giấu khi điện thoại vừa tắt. Là những tủi thân mà không nói thành lời. Những ấm ức không được giải bày. Có lẽ không thể phủ nhận rằng chính covid mang đến cho chúng tôi tìm và nhìn nhận lại bản thân. Đấy những lúc được gần nhau nó là cả trên sự tuyệt vời.',
-    image: ImgKembaliKeIndonesia,
+    image: iris,
   },
   {
     title: 'Những gia vị của tình yêu',
@@ -45,6 +46,6 @@ export const stories = [
     date: '24/12/2022',
     description:
       'Có lẽ tới sau cùng, ai trong chúng ta, đều mong tìm một người cùng mình bước qua những giây phút cuối của cuộc đời. Ai cũng nói nên chọn cưới người yêu mình hay người mình yêu sẽ tốt hơn? Thật sự mà nói hôn nhân không phải thứ để lựa chọn mà là sự cảm mến, sự tin tưởng, sự đồng hành, sự hi sinh. Và hôn nhân là quá trình không phải là khoảnh khắc. Tôi có đọc được trong sách một câu mà tác giả đã bộc lộ quan điểm rằng: "Cưới xin không phải là chọn người tốt nhất trên đời để cưới mà chính là người đặc biệt nhất đối với mình”. Và chúng tôi đã gặp được người đặc biệt của nhau một cách nhẹ nhàng, không phô trương, chẳng ồn ào mà cũng không vội vã. Chẳng phải là ở cạnh nhau cả ngày chỉ cần là bình dị bên những câu hỏi thăm, cử chỉ ân cần, những hành động nhỏ nhắn và đôi khi chỉ là: “Ngày hôm nay của em thế nào?” Nếu mệt mỏi quá, thì cùng nhau thủ thỉ, tâm sự và xoa dịu sóng gió, giúp nhau "tẩy" đi những vết "nguệch ngoạc" trong bức tranh cuộc sống của đối phương. Để rồi, chỉ giữ lại những gam màu ấm áp. Để tận hưởng cuộc sống thú vị là cùng nhau nắm nắm tay đi dạo phố đông, la cà những góc phố, hẻm nhỏ, sẵn sàng xách xe đi lượn…... Dù lắm lúc, hai đứa chẳng biết là đi đâu. Mong rằng hiện tại hay mai sau chúng tôi sẽ nắm tay để cùng ăn, cùng chơi, cùng ngủ và cùng làm việc để khám phá cuộc sống thú vị này.',
-    image: ImgKembaliBerjumpa,
+    image: risa,
   },
 ];

@@ -40,7 +40,7 @@ function Home({ location }) {
         <WeddingSection isInvitation={isInvitation} />
         {isInvitation && <CovidSection />}
         {<LocationSection />}
-        <StorySection />
+    {/*    <StorySection />*/}
         <PhotoSection />
         <WishesSection />
         <ConfirmationSection guestName={firstName} isInvitation={isInvitation} codeLink={finalTicketLink} />

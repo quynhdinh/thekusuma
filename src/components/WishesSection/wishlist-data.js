@@ -58,8 +58,8 @@ export const wishlist = [
     image: rahma,
   },
   {
-    name: 'Thành Thân',
-    infoName: 'Lixil',
+    name: 'Đức Nguyễn',
+    infoName: 'CP',
     description: `Thật vui vì cuối cùng ngày này cũng tới với bạn. Cuối cùng thì bạn đã dừng chân tại bến đỗ, mảnh ghép hoàn hảo của cuộc đời mình. Tớ không biết nói gì hơn, thành tâm chúc hai bạn hạnh phúc và hạnh phúc, sống một cuộc sống vui vẻ cùng nhau mãi mãi.`,
     image: ghea,
   },

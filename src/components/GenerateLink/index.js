@@ -105,7 +105,7 @@ function GenerateLink() {
             <table class="table">
               <thead>
                 <tr>
-                  <th>Số thứ tự</th>
+                  <th>Thứ tự</th>
                   <th>Tên</th>
                   <th>Thông tin</th>
                   <th>Đường link</th>

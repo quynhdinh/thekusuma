@@ -7,8 +7,8 @@ import '@assets/css/icomoon.css';
 import '@assets/css/bootstrap.css';
 import '@assets/css/style.css';
 
-const IMAGE_URL = `https://thekusuma.com/static/slide-6-4715e29302dbaa2ba21494c6258298d4.jpg`;
-const META_DESCRIPTION = `Dengan memohon Rahmat dan Ridho Illahi, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk rumah tangga yang Sakinah, Mawaddah wa Rahmah, kami mohon do'a agar senantiasa diberikan kelancaran dan keberkahan. - Bình & Vân`;
+const IMAGE_URL = `https://raw.githubusercontent.com/quynhdinh/thekusuma/master/src/assets/images/gallery-20.jpg`;
+const META_DESCRIPTION = `Sự hiện diện của quý khách là niềm vinh hạnh của gia đình chúng tôi - Bình & Vân`;
 
 function MainLayout({ children }) {
   return (

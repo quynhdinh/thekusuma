@@ -75,7 +75,9 @@ export const wishlist = [
   {
     name: 'Bé Xíu',
     infoName: 'Akzonobel',
-    description: `Thật vui vì cuối cùng ngày này cũng tới với hai anh chị. Cuối cùng thì cả hai đã dừng chân tại bến đỗ, mảnh ghép hoàn hảo của cuộc đời mình. Em không biết nói gì hơn, thành tâm chúc hai anh chị hạnh phúc và hạnh phúc, sống một cuộc sống vui vẻ cùng nhau mãi mãi.`,
+    fbLink: "https://www.facebook.com/khanhhuyen.lenguyen",
+    description: `Ở thời điểm phù hợp nhất, mặc lên người bộ váy cưới đẹp nhất, gả cho người đáng tin cậy nhất 👩‍ ❤ 👨 <br/>
+                  Chúc mừng đám cưới chị đẹp của em ❤ `,
     image: rahma,
   },
   {

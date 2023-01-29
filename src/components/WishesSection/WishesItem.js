@@ -1,8 +1,9 @@
 import React from 'react';
 import { string, bool } from 'prop-types';
 import { styWrapperItem, styWithAnimation } from './styles';
+import FB from '@assets/images/icons8-facebook-64.png';
 
-function WishesItem({ image, name, infoName, description, isActive }) {
+function WishesItem({image, name, fbLink, infoName, description, isActive}) {
   if (!isActive) return null;
 
   const renderItem = () => {
@@ -14,6 +15,14 @@ function WishesItem({ image, name, infoName, description, isActive }) {
           </figure>
           <h4>{name}</h4>
           <span className="infoName">{infoName}</span>
+          {fbLink && (
+            <a target="_blank" href={fbLink}>
+              <img style={{
+                width: '30px',
+                height: '30px'
+              }} src={FB} alt="user" loading="lazy"/>
+            </a>
+          )}
           <blockquote>
             <p className="description" dangerouslySetInnerHTML={{ __html: description }}/>
           </blockquote>

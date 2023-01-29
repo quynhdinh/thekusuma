@@ -81,6 +81,7 @@ export const wishlist = [
   {
     name: 'Đức Nguyễn',
     infoName: 'CP',
+    fbLink: "https://www.facebook.com/ShinySlayer",
     description: `Người xưa có nói "Tu 10 năm mới chung chuyến đò, tu 100 năm mới chung chăn gối". Đến với nhau là do duyên phận, còn hạnh phúc đến trọn đời do hai người cùng vun đắp. Các em hãy cùng nhau xây dựng một tổ ấm và bên nhau đến "Đầu bạc răng long" mà thôi phải nói là "Tóc nhuộm răng giả" chứ bây giờ già vẫn cần đẹp :D nhỉ
                         Hãy nhớ câu "Thuận vợ thuận chồng tát biển Đông cũng cạn". <br/>
                         Chúc đôi uyên ương có một lễ cưới trang trọng, đầm ấm đánh dấu bước khởi đầu của con đường Hạnh Phúc`,

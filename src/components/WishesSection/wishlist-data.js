@@ -45,25 +45,31 @@ export const wishlist = [
   {
     name: 'Dexter',
     infoName: 'Bệnh viện Đa Khoa Đồng Nai',
-    description: `Hôn nhân ko phải là nơi thuyền tình cập bến, mà là nơi 2 người yêu nhau quyết định cùng giăng buồm vượt sóng ra khơi”. Chúc mừng hai anh chị đã không còn đơn phương trong hành trình hạnh phúc này!`,
+    description: `"Hôn nhân ko phải là nơi thuyền tình cập bến, mà là nơi 2 người yêu nhau quyết định cùng giăng buồm vượt sóng ra khơi”. Chúc mừng hai anh chị đã không còn đơn phương trong hành trình hạnh phúc này!`,
     image: hapsari,
   },
   {
     name: 'Iris Hoàng',
     infoName: 'IGC',
-    description: `Chúc Bình ❤ Vân về chung 1 nhà. Không chúc đầu bạc răng long, nhỡ 35-40t tóc bạc răng rụng thì không ổn nên chúc sống bên nhau trọn đời trọn kiếp và thật hạnh phúc nha 2 đứa :D`,
+    description: `Chúc hai anh chị về chung 1 nhà. Không chúc đầu bạc răng long, nhỡ 35-40t tóc bạc răng rụng thì không ổn nên chúc sống bên nhau trọn đời trọn kiếp và thật hạnh phúc nha :D`,
     image: iris,
   },
   {
     name: 'Mai Ngũ',
     infoName: 'ABC School',
-    description: `Chúc cho Bình và Vân nên đôi vợ chồng Chúc cho hai anh chị mặn nồng tình thương Thương nhau thương tới tận già Thương cho tới lúc bạc cha mái đầu.`,
+    description: `Chúc cho Bình Vân nên đôi vợ chồng <br/>
+                        Chúc cho hai bạn mặn nồng tình thương <br/>
+                        Thương nhau thương tới tận già<br/>
+                        Thương cho tới lúc bạc cha mái đầu.`,
     image: dianara,
   },
   {
-    name: 'Quỳnh',
+    name: 'Em Quỳnh',
     infoName: 'Zalo',
-    description: "Chúc mừng tân lang - tân nương điển trai xinh đẹp của em. Chúc 2 cậu sẽ có một khởi đầu mới thuận lợi, cùng nhau xây đắp một mái ấm hạnh phúc mà hai cậu vẫn ao ước nhé. Happy Wedding!",
+    description: `Thật vui vì ngày này cũng đã đến, chị em đã dừng chân ở bến đỗ, mảnh ghép hoàn hảo của cuộc đời !!!<br/>
+                        Chúc cho hôn lễ của đôi trai tài gái sắc diễn ra thật ý nghĩa và tốt đẹp.<br/>
+                        Chúc cho cuộc sống mới của 2 bạn luôn tràn đầy niềm vui, tiếng cười và hạnh phúc. Và dù có bao nhiêu thử thách, hãy luôn nắm chặt tay, cùng nhau đi hết cuộc đời nhé !!!<br/>
+                     HAPPY WEDDING`,
     image: fajar,
   },
   {
@@ -75,7 +81,9 @@ export const wishlist = [
   {
     name: 'Đức Nguyễn',
     infoName: 'CP',
-    description: `Người xưa có nói "Tu 10 năm mới chung chuyến đò, tu 100 năm mới chung chăn gối". Đến với nhau là do duyên phận, còn hạnh phúc đến trọn đời do hai người cùng vun đắp. Các em hãy cùng nhau xây dựng một tổ ấm và bên nhau đến "Đầu bạc răng long" mà thôi phải nói là "Tóc nhuộm răng giả" chứ bây giờ già vẫn cần đẹp :D nhỉ Hãy nhớ câu "Thuận vợ thuận chồng tát biển Đông cũng cạn". Chúc đôi uyên ương có một lễ cưới trang trọng, đầm ấm đánh dấu bước khởi đầu của con đường hạnh phúc`,
+    description: `Người xưa có nói "Tu 10 năm mới chung chuyến đò, tu 100 năm mới chung chăn gối". Đến với nhau là do duyên phận, còn hạnh phúc đến trọn đời do hai người cùng vun đắp. Các em hãy cùng nhau xây dựng một tổ ấm và bên nhau đến "Đầu bạc răng long" mà thôi phải nói là "Tóc nhuộm răng giả" chứ bây giờ già vẫn cần đẹp :D nhỉ
+                        Hãy nhớ câu "Thuận vợ thuận chồng tát biển Đông cũng cạn". <br/>
+                        Chúc đôi uyên ương có một lễ cưới trang trọng, đầm ấm đánh dấu bước khởi đầu của con đường Hạnh Phúc`,
     image: ghea,
   },
 ];

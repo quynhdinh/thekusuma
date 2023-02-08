@@ -31,17 +31,11 @@ function FooterSection({ isInvitation }) {
           <div className="row copyright">
             <div className="col-md-12 text-center">
               <p>
-                <small className="block">&copy; 2023 Bình & Vân Wedding. All Rights Reserved.</small>
-                <small className="block">
-                  Covid-19 Icon by{' '}
-                  <a href="https://www.flaticon.com/packs/covid-protection-measures-5" target="_blank" rel="noreferrer">
-                    Flat Icon - Frepik
-                  </a>
-                </small>
+                <small className="block">&copy; 2023 Bình & Vân Wedding. ❤ ❤ ❤</small>
                 <small className="block">
                   Song by{' '}
-                  <a href="https://www.youtube.com/watch?v=fb167KAxvrg" target="_blank" rel="noreferrer">
-                    Anandito Anisa - Pernikahan Impian
+                  <a href="https://www.youtube.com/watch?v=rIXhXaQ8tiM" target="_blank" rel="noreferrer">
+                    Ngày đầu tiên - Đức Phúc
                   </a>
                 </small>
                 <small className="block">

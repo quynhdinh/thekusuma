@@ -12,12 +12,12 @@ function ButtonLive() {
         <p className="text__live">Cảm ơn mọi người thật nhiều.</p>
         <br/>
         <a href="https://www.instagram.com/dindadipoyono/" target="_blank" rel="noreferrer">
-          <div css={styButtonWrapper}>
+          {/* <div css={styButtonWrapper}>
             <div className="img__wrapper">
               <img src={IconIg} alt="Live IG" />
               <span>@dindadipoyono</span>
             </div>
-          </div>
+          </div> */}
         </a>
       </div>
     </div>

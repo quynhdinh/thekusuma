@@ -146,7 +146,7 @@ function GenerateLink() {
   return (
     <div>
       <h2 className="title">Lấy link cho khách mời</h2>
-      <h3 className="title__sub">Bình & Vân Wedding</h3>
+      <h3 className="title__sub">Đức & Trang Wedding</h3>
 
       {loading && <h4 style={{ textAlign: 'center' }}>Đang tải data..</h4>}
 

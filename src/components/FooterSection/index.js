@@ -31,7 +31,7 @@ function FooterSection({ isInvitation }) {
           <div className="row copyright">
             <div className="col-md-12 text-center">
               <p>
-                <small className="block">&copy; 2023 Bình & Vân Wedding. ❤ ❤ ❤</small>
+                <small className="block">&copy; 2023 Đức & Trang Wedding. ❤ ❤ ❤</small>
                 <small className="block">
                   Song by{' '}
                   <a href="https://www.youtube.com/watch?v=rIXhXaQ8tiM" target="_blank" rel="noreferrer">

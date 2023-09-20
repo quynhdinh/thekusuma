@@ -7,6 +7,6 @@ export const GOOGLE_MAPS_LINK = `https://www.google.com/maps/place/Conference+Ce
 /**
  * Wedding time
  */
-export const EPOCH_START_EVENT = 1676176200;
-export const EPOCH_END_EVENT = 1676185200;
-export const UTC_WEDDING_TIME = '2023-12-02:04:00:00Z';
+export const EPOCH_START_EVENT = 1700474961;
+export const EPOCH_END_EVENT = 1700492961;
+export const UTC_WEDDING_TIME = '2023-12-11:04:00:00Z';

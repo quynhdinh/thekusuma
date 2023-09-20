@@ -13,7 +13,7 @@ function GenerateLink() {
 
   const { data, loading } = useGuestData();
 
-  const URL = `https://binh-van-wedding.netlify.app?to=${encodeURIComponent(name)}`;
+  const URL = `https://wedding-ductrang.netlify.app?to=${encodeURIComponent(name)}`;
 
   const handleChange = (e) => {
     setType(parseInt(e.target.value, 10));
@@ -114,7 +114,7 @@ function GenerateLink() {
               <tbody>
                 {data.map((d, index) => {
                   const offlineInvitation = isInvitation ? `&type=invitation&code=${d.code}` : '';
-                  const mapURL = `https://binh-van-wedding.netlify.app?to=${encodeURIComponent(d.name)}${offlineInvitation}`;
+                  const mapURL = `https://wedding-ductrang.netlify.app?to=${encodeURIComponent(d.name)}${offlineInvitation}`;
                   return (
                     <tr>
                       <td>{index + 1}</td>
@@ -146,7 +146,7 @@ function GenerateLink() {
   return (
     <div>
       <h2 className="title">Lấy link cho khách mời</h2>
-      <h3 className="title__sub">Đức & Trang Wedding</h3>
+      <h3 className="title__sub">Duc & Trang Wedding</h3>
 
       {loading && <h4 style={{ textAlign: 'center' }}>Đang tải data..</h4>}
 

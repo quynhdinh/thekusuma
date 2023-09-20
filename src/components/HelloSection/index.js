@@ -1,8 +1,8 @@
 import React, { Fragment } from 'react';
 import { bool } from 'prop-types';
 
-import Bride from '@assets/images/p-dinda-2.jpg';
-import Groom from '@assets/images/p-indra.jpg';
+import Bride from '@assets/images/p-trang.png';
+import Groom from '@assets/images/p-duc.png';
 
 import { styWrapper } from './styles';
 
@@ -17,10 +17,10 @@ function HelloSection({ isInvitation }) {
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
               <h2 className="main-font">Wedding</h2>
               <h3 className="sub-title hs">HÔN LỄ ĐƯỢC TỔ CHỨC VÀO LÚC 11H30</h3>
-              <h4 className="sub-title hs">CHỦ NHẬT, NGÀY 12 THÁNG 02 NĂM 2023</h4>
-              <p className="info">(Nhằm ngày 22 tháng 01 năm Quý Mão)</p>
-              <h4 className="sub-title hs">TẠI SẢNH EDEN - Trung tâm hội nghị tiệc cưới EROS PALACE</h4>
-              <p className="info">15 Đồng Khởi, P. Tân Tiến, Biên Hòa, Đồng Nai</p>
+              <h4 className="sub-title hs">CHỦ NHẬT, NGÀY 11 THÁNG 11 NĂM 2023</h4>
+              <p className="info">(Nhằm ngày 28 tháng 09 năm Quý Mão)</p>
+              <h4 className="sub-title hs">TẠI SẢNH EDEN - Trung tâm hội nghị tiệc cưới Golden Palace</h4>
+              <p className="info">04-06 Nguyễn Ái Quốc, Tân Tiến, Thành phố Biên Hòa, Đồng Nai</p>
               <p className="info">Sự hiện diện của quý khách là niềm vinh hạnh cho gia đình chúng tôi</p>
             </div>
           </div>
@@ -30,7 +30,7 @@ function HelloSection({ isInvitation }) {
                 <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
-                <h3 className="main-font">Duong Xuan Binh</h3>
+                <h3 className="main-font">Huynh Duc</h3>
                 <p className="parent-name parent-name__top">
                   Bố: Dương Xuân Huệ <br />
                   Mẹ: Phạm Thị Hương <br />
@@ -50,7 +50,7 @@ function HelloSection({ isInvitation }) {
                 <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-bride">
-                <h3 className="main-font">Hoang Thi Mong Van</h3>
+                <h3 className="main-font">Trang</h3>
                 <p className="parent-name">
                   Bố: Hoàng Quốc Thống <br />
                   Mẹ: Phạm Thị Thị <br />

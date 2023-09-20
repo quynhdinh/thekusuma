@@ -18,17 +18,17 @@ function LocationSection() {
                   rel="noreferrer"
                   style={{ color: '#828282' }}
                 >
-                  <strong>SẢNH EDEN - Trung tâm hội nghị tiệc cưới EROS PALACE</strong>
+                  <strong>SẢNH EDEN - Trung tâm hội nghị tiệc cưới Golden </strong>
                 </a>{' '}
                 <br />
-                Số 15 Đồng Khởi, Khu phố 6, P. Tân Tiến, Biên Hòa, Đồng Nai
+                Số 04-06 Nguyễn Ái Quốc, Tân Tiến, Thành phố Biên Hòa, Đồng Nai
               </p>
             </div>
           </div>
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.997712258465!2d106.85114651526096!3d10.963544658708733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174dc39cf288fd1%3A0x50a2c75aa7cd657!2sConference%20Center%20Wedding%20Palace%20Eros!5e0!3m2!1sen!2s!4v1672730727340!5m2!1sen!2s"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.990565889855!2d106.84143887587764!3d10.964084255702625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174dc2302f80963%3A0x5d7c490ad0abc441!2zVHJ1bmcgdMOibSBUaeG7h2MgY8aw4bubaSAmIEjhu5lpIG5naOG7iyBHb2xkZW4gUGFsYWNl!5e0!3m2!1sen!2sus!4v1695807349580!5m2!1sen!2sus"
                 width="100%"
                 height="450"
                 frameBorder="0"

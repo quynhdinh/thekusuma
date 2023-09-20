@@ -8,7 +8,7 @@ import '@assets/css/bootstrap.css';
 import '@assets/css/style.css';
 
 const IMAGE_URL = `https://raw.githubusercontent.com/quynhdinh/thekusuma/master/src/assets/images/gallery-20.jpg`;
-const META_DESCRIPTION = `Sự hiện diện của quý khách là niềm vinh hạnh của gia đình chúng tôi - Bình & Vân`;
+const META_DESCRIPTION = `Sự hiện diện của quý khách là niềm vinh hạnh của gia đình chúng tôi - Đức & Trang`;
 
 function MainLayout({ children }) {
   return (
@@ -20,12 +20,12 @@ function MainLayout({ children }) {
         <link rel="icon" type="image/png" href={Favicon} />
 
         {/* font and SEO tags */}
-        <meta property="og:title" content="The Wedding of Bình & Vân" />
+        <meta property="og:title" content="The Wedding of Đức & Trang" />
         <meta property="og:image" content={IMAGE_URL} />
         <meta property="og:url" content="https://thekusuma.com" />
         <meta property="og:site_name" content="The Wedding of Bình & Vân" />
         <meta property="og:description" content={META_DESCRIPTION} />
-        <meta name="twitter:title" content="The Wedding of Bình & Vân" />
+        <meta name="twitter:title" content="The Wedding of Đức & Trang" />
         <meta name="twitter:description" content={META_DESCRIPTION} />
         <meta name="twitter:image" content={IMAGE_URL} />
         <meta name="twitter:url" content="https://thekusuma.com" />

@@ -30,11 +30,11 @@ function HelloSection({ isInvitation }) {
                 <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
-                <h3 className="main-font">Huynh Duc</h3>
+                <h3 className="main-font">Vincente Nguyễn Huỳnh Đức</h3>
                 <p className="parent-name parent-name__top">
-                  Bố: Dương Xuân Huệ <br />
-                  Mẹ: Phạm Thị Hương <br />
-                  Trảng Dài, Biên Hòa, Đồng Nai
+                  Bố: Vincente Nguyễn Văn Minh<br />
+                  Mẹ: Maria Bùi Thị Ngọc Thúy <br />
+                  Tân Hiệp, Biên Hòa, Đồng Nai
                 </p>
                 {/*<img src={Groom} alt="MoneyQR" width="120" height="120"/>*/}
               </div>
@@ -50,11 +50,11 @@ function HelloSection({ isInvitation }) {
                 <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-bride">
-                <h3 className="main-font">Trang</h3>
+                <h3 className="main-font">Nguyễn Thị Trang</h3>
                 <p className="parent-name">
-                  Bố: Hoàng Quốc Thống <br />
-                  Mẹ: Phạm Thị Thị <br />
-                  Phú Ngọc, Định Quán, Đồng Nai
+                  Bố: Nguyễn Công Hòa<br />
+                  Mẹ: Nguyễn Thị Khương<br />
+                  Tam Hiệp, Biên Hòa, Đồng Nai
                 </p>
                 {/*<img src={Bride} alt="MoneyQR" width="120" height="120"/>*/}
               </div>

@@ -9,10 +9,10 @@ function WeddingSection({ isInvitation }) {
   const renderGuestInfo = () => {
     return (
       <Fragment>
-        <div className="col-md-8 col-md-offset-4">
-          <WeddingInfoBox title="LỄ NẠP TÀI" time="9:00" date="Ngày 11/11/2023 (Dương lịch) - Ngày 28/09/2023 (Âm lịch)" description="TẠI TƯ GIA <br/>Phú Ngọc, Định Quán, Đồng Nai" />
-        </div>
-        <br/>
+        // <div className="col-md-8 col-md-offset-4">
+        //   <WeddingInfoBox title="LỄ NẠP TÀI" time="9:00" date="Ngày 11/11/2023 (Dương lịch) - Ngày 28/09/2023 (Âm lịch)" description="TẠI TƯ GIA <br/>Phú Ngọc, Định Quán, Đồng Nai" />
+        // </div>
+        // <br/>
         <div className="col-md-8 col-md-offset-4">
           <WeddingInfoBox title="LỄ THÀNH HÔN" time="11:30" date="Ngày 11/11/2023 (Dương lịch) - Ngày 28/09/2023 (Âm lịch)" description="Sảnh Eden, Trung tâm hội nghị tiệc cưới Golden PALACE, Biên Hòa Đồng Nai"/>
         </div>

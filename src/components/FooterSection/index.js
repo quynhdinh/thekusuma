@@ -39,8 +39,8 @@ function FooterSection({ isInvitation }) {
                   </a>
                 </small>
                 <small className="block">
-                  Original Template from{' '}
-                  <a href="http://freehtml5.co/" target="_blank" rel="noreferrer">
+                  Liên hệ {' '}
+                  <a href="Không tám 69046 một hai ba" target="_blank" rel="noreferrer">
                     FREEHTML5.co
                   </a>
                 </small>

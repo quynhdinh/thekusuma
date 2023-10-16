@@ -18,7 +18,7 @@ function LocationSection() {
                   rel="noreferrer"
                   style={{ color: '#828282' }}
                 >
-                  <strong>SẢNH EDEN - Trung tâm hội nghị tiệc cưới Golden </strong>
+                  <strong>Trung tâm hội nghị tiệc cưới Golden Palace</strong>
                 </a>{' '}
                 <br />
                 Số 04-06 Nguyễn Ái Quốc, Tân Tiến, Thành phố Biên Hòa, Đồng Nai

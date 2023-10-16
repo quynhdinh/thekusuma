@@ -19,7 +19,7 @@ function HelloSection({ isInvitation }) {
               <h3 className="sub-title hs">HÔN LỄ ĐƯỢC TỔ CHỨC VÀO LÚC 11H30</h3>
               <h4 className="sub-title hs">CHỦ NHẬT, NGÀY 11 THÁNG 11 NĂM 2023</h4>
               <p className="info">(Nhằm ngày 28 tháng 09 năm Quý Mão)</p>
-              <h4 className="sub-title hs">TẠI SẢNH EDEN - Trung tâm hội nghị tiệc cưới Golden Palace</h4>
+              <h4 className="sub-title hs">Trung tâm hội nghị tiệc cưới Golden Palace</h4>
               <p className="info">04-06 Nguyễn Ái Quốc, Tân Tiến, Thành phố Biên Hòa, Đồng Nai</p>
               <p className="info">Sự hiện diện của quý khách là niềm vinh hạnh cho gia đình chúng tôi</p>
             </div>

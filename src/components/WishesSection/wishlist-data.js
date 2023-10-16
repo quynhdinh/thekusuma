@@ -15,19 +15,19 @@ export const wishlist = [
   {
     name: 'Bạn Thanh',
     infoName: '',
-    description: `Thế là con ngựa hoang thứ 3 của tụi này đã bị Mr Bình thuần hoá rồi, chúc mừng cưng đã vượt qua deadline “hối cưới” của năm nay, luôn vui tươi,hạnh phúc,hôn nhân viên mãn nhé baby! ❤️❤️❤️❤️. Gửi bạn Vân yêu dấu nhé`,
+    description: `Thế là bạn Trang của tụi này đã bị Mr. Đức thuần hoá rồi, chúc mừng cưng đã vượt qua deadline “hối cưới” của năm nay, luôn vui tươi,hạnh phúc, hôn nhân viên mãn nhé baby! ❤️❤️❤️❤️. Gửi bạn Vân yêu dấu nhé`,
     image: thanh,
   },
   {
     name: 'Bạn Trang',
     infoName: '',
-    description: `Chúc mừng Anh Bình Koc đã may mắn có được Ngựa Hoang Vân yêu dấu. Hãy nắm chặt tay nhau đến lúc già nhé.`,
+    description: `Chúc mừng anh Đức đã may mắn có được Trang yêu dấu. Hãy nắm chặt tay nhau đến lúc già nhé.`,
     image: trang,
   },
   {
     name: 'Bạn Hương',
     infoName: '',
-    description: `Cứ phải gọi là mừng vỡ oà khi nghe tin có người hốt con bạn lâu năm. Chúc mừng anh Bình Koc đã may mắn có được con ngựa quý 😝. Trăm năm hạnh phúc nha 2 bạn Trẻ.`,
+    description: `Cứ phải gọi là mừng vỡ oà khi nghe tin có người hốt con bạn lâu năm. Chúc mừng anh Đức đã may mắn có được con heo quý 😝. Trăm năm hạnh phúc nha 2 bạn trẻ.`,
     image: huong,
   },
   // {
@@ -45,7 +45,7 @@ export const wishlist = [
   {
     name: 'Dexter',
     infoName: 'Bệnh viện Đa Khoa Đồng Nai',
-    description: `"Hôn nhân ko phải là nơi thuyền tình cập bến, mà là nơi 2 người yêu nhau quyết định cùng giăng buồm vượt sóng ra khơi”. Chúc mừng hai anh chị đã không còn đơn phương trong hành trình hạnh phúc này!`,
+    description: `"Hôn nhân ko phải là nơi thuyền tình cập bến, mà là nơi 2 người yêu nhau quyết định cùng giăng buồm vượt sóng ra khơi”. Chúc mừng hai em đã không còn đơn phương trong hành trình hạnh phúc này!`,
     image: hapsari,
   },
   {
@@ -57,20 +57,20 @@ export const wishlist = [
   {
     name: 'Mai Ngũ',
     infoName: 'ABC School',
-    description: `Chúc cho Bình Vân nên đôi vợ chồng <br/>
+    description: `Chúc cho Đức & Trang nên đôi vợ chồng <br/>
                         Chúc cho hai bạn mặn nồng tình thương <br/>
                         Thương nhau thương tới tận già<br/>
                         Thương cho tới lúc bạc cha mái đầu.`,
     image: dianara,
   },
   {
-    name: 'Em Quỳnh',
+    name: 'Heo Xyn',
     infoName: 'Zalo',
     description: `Thật vui vì ngày này cũng đã đến, chị em đã dừng chân ở bến đỗ, mảnh ghép hoàn hảo của cuộc đời !!!<br/>
                         Chúc cho hôn lễ của đôi trai tài gái sắc diễn ra thật ý nghĩa và tốt đẹp.<br/>
                         Chúc cho cuộc sống mới của 2 bạn luôn tràn đầy niềm vui, tiếng cười và hạnh phúc. Và dù có bao nhiêu thử thách, hãy luôn nắm chặt tay, cùng nhau đi hết cuộc đời nhé !!!<br/>
                      HAPPY WEDDING`,
-    image: fajar,
+    image: ghea,
   },
   {
     name: 'Bé Xíu',
@@ -81,7 +81,7 @@ export const wishlist = [
     image: rahma,
   },
   {
-    name: 'Đức Nguyễn',
+    name: 'Vân Hoàng',
     infoName: 'CP',
     fbLink: "https://www.facebook.com/ShinySlayer",
     description: `Người xưa có nói "Tu 10 năm mới chung chuyến đò, tu 100 năm mới chung chăn gối". Đến với nhau là do duyên phận, còn hạnh phúc đến trọn đời do hai người cùng vun đắp. Các em hãy cùng nhau xây dựng một tổ ấm và bên nhau đến "Đầu bạc răng long" mà thôi phải nói là "Tóc nhuộm răng giả" chứ bây giờ già vẫn cần đẹp :D nhỉ

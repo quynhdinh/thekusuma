@@ -30,10 +30,6 @@ import Gallery29 from '@assets/images/gallery-29.jpg';
 import Gallery30 from '@assets/images/gallery-30.jpg';
 import Gallery31 from '@assets/images/gallery-31.jpg';
 import Gallery32 from '@assets/images/gallery-32.jpg';
-import Gallery33 from '@assets/images/gallery-33.jpg';
-import Gallery34 from '@assets/images/gallery-34.jpg';
-import Gallery35 from '@assets/images/gallery-35.jpg';
-import Gallery36 from '@assets/images/gallery-36.jpg';
 
 export const photos = [
   {
@@ -112,72 +108,52 @@ export const photos = [
     original: Gallery19,
     thumbnail: Gallery19,
   },
-  // {
-  //   original: Gallery20,
-  //   thumbnail: Gallery20,
-  // },
-  // {
-  //   original: Gallery21,
-  //   thumbnail: Gallery21,
-  // },
-  // {
-  //   original: Gallery22,
-  //   thumbnail: Gallery22,
-  // },
-  // {
-  //   original: Gallery23,
-  //   thumbnail: Gallery23,
-  // },
-  // {
-  //   original: Gallery24,
-  //   thumbnail: Gallery24,
-  // },
-  // {
-  //   original: Gallery25,
-  //   thumbnail: Gallery25,
-  // },
-  // {
-  //   original: Gallery26,
-  //   thumbnail: Gallery26,
-  // },
-  // {
-  //   original: Gallery27,
-  //   thumbnail: Gallery27,
-  // },
-  // {
-  //   original: Gallery28,
-  //   thumbnail: Gallery28,
-  // },
-  // {
-  //   original: Gallery29,
-  //   thumbnail: Gallery29,
-  // },
-  // {
-  //   original: Gallery30,
-  //   thumbnail: Gallery30,
-  // },
-  // {
-  //   original: Gallery31,
-  //   thumbnail: Gallery31,
-  // },
-  {
-    original: Gallery32,
-    thumbnail: Gallery32,
-  },
-  {
-    original: Gallery33,
-    thumbnail: Gallery33,
-  },
-  {
-    original: Gallery34,
-    thumbnail: Gallery34,
-  },
-  // {
-  //   original: Gallery35,
-  //   thumbnail: Gallery35,
-  // },
-  // {
-  //   original: Gallery36,
-  //   thumbnail: Gallery36,
-  // }
+   {
+     original: Gallery20,
+     thumbnail: Gallery20,
+   },
+   {
+     original: Gallery21,
+     thumbnail: Gallery21,
+   },
+   {
+     original: Gallery22,
+     thumbnail: Gallery22,
+   },
+   {
+     original: Gallery23,
+     thumbnail: Gallery23,
+   },
+   {
+     original: Gallery24,
+     thumbnail: Gallery24,
+   },
+   {
+     original: Gallery25,
+     thumbnail: Gallery25,
+   },
+   {
+     original: Gallery26,
+     thumbnail: Gallery26,
+   },
+   {
+     original: Gallery27,
+     thumbnail: Gallery27,
+   },
+   {
+     original: Gallery28,
+     thumbnail: Gallery28,
+   },
+   {
+     original: Gallery29,
+     thumbnail: Gallery29,
+   },
+   {
+     original: Gallery30,
+     thumbnail: Gallery30,
+   },
+   {
+     original: Gallery31,
+     thumbnail: Gallery31,
+   },
 ];

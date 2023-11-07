@@ -19,24 +19,24 @@ export const wishlist = [
     description: `Thế là bạn Trang của tụi này đã bị Mr. Đức thuần hoá rồi, chúc mừng cưng đã vượt qua deadline “hối cưới” của năm nay, luôn vui tươi,hạnh phúc, hôn nhân viên mãn nhé baby! ❤️❤️❤️❤️. Gửi bạn Trang yêu dấu nhé`,
     image: thanh,
   },
-  {
-    name: 'Bạn Trang',
-    infoName: '',
-    description: `Chúc mừng anh Đức đã may mắn có được Trang yêu dấu. Hãy nắm chặt tay nhau đến lúc già nhé.`,
-    image: trang,
-  },
+  // {
+  //   name: 'Bạn Trang',
+  //   infoName: '',
+  //   description: `Chúc mừng anh Đức đã may mắn có được Trang yêu dấu. Hãy nắm chặt tay nhau đến lúc già nhé.`,
+  //   image: trang,
+  // },
   {
     name: 'Bạn Hương',
     infoName: '',
     description: `Cứ phải gọi là mừng vỡ oà khi nghe tin có người hốt con bạn lâu năm. Chúc mừng anh Đức đã may mắn có được con heo quý 😝. Trăm năm hạnh phúc nha 2 bạn trẻ.`,
     image: huong,
   },
-  // {
-  //   name: 'Phước Nguyễn',
-  //   infoName: 'Publicis Groupe',
-  //   description: `Thật vui vì cuối cùng ngày này cũng tới với bạn. Cuối cùng thì bạn đã dừng chân tại bến đỗ, mảnh ghép hoàn hảo của cuộc đời mình. Tớ không biết nói gì hơn, thành tâm chúc hai bạn hạnh phúc và hạnh phúc, sống một cuộc sống vui vẻ cùng nhau mãi mãi.`,
-  //   image: Zakiy,
-  // },
+  {
+    name: 'Phước Nguyễn',
+    infoName: 'Publicis Groupe',
+    description: `Thật vui vì cuối cùng ngày này cũng tới với hai anh chị. Cuối cùng thì anh đã dừng chân tại bến đỗ, mảnh ghép hoàn hảo của cuộc đời mình. Em không biết nói gì hơn, thành tâm chúc hai anh chị hạnh phúc và hạnh phúc, sống một cuộc sống vui vẻ cùng nhau mãi mãi.`,
+    image: Zakiy,
+  },
   // {
   //   name: 'Lương Minh Tín',
   //   infoName: 'Trung tâm VMG',
@@ -66,7 +66,7 @@ export const wishlist = [
   },
   {
     name: 'Heo Xyn',
-    infoName: 'Zalo',
+    infoName: 'Accountant',
     description: `Thật vui vì ngày này cũng đã đến, chị em đã dừng chân ở bến đỗ, mảnh ghép hoàn hảo của cuộc đời !!!<br/>
                         Chúc cho hôn lễ của đôi trai tài gái sắc diễn ra thật ý nghĩa và tốt đẹp.<br/>
                         Chúc cho cuộc sống mới của 2 bạn luôn tràn đầy niềm vui, tiếng cười và hạnh phúc. Và dù có bao nhiêu thử thách, hãy luôn nắm chặt tay, cùng nhau đi hết cuộc đời nhé !!!<br/>
@@ -83,8 +83,7 @@ export const wishlist = [
   },
   {
     name: 'Vân Hoàng',
-    infoName: 'CP',
-    fbLink: "https://www.facebook.com/ShinySlayer",
+    infoName: 'Khoan pin Biên Hòa',
     description: `Người xưa có nói "Tu 10 năm mới chung chuyến đò, tu 100 năm mới chung chăn gối". Đến với nhau là do duyên phận, còn hạnh phúc đến trọn đời do hai người cùng vun đắp. Các em hãy cùng nhau xây dựng một tổ ấm và bên nhau đến "Đầu bạc răng long" mà thôi phải nói là "Tóc nhuộm răng giả" chứ bây giờ già vẫn cần đẹp :D nhỉ
                         Hãy nhớ câu "Thuận vợ thuận chồng tát biển Đông cũng cạn". <br/>
                         Chúc đôi uyên ương có một lễ cưới trang trọng, đầm ấm đánh dấu bước khởi đầu của con đường Hạnh Phúc`,
